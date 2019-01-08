@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1519561935808876}
+  m_IsPrefabParent: 1
+--- !u!1 &1519561935808876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4566476226166094}
+  - component: {fileID: 114243935526907996}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4566476226166094
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1519561935808876}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 816.9625, y: 302.05603, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114243935526907996
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1519561935808876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38babfd589ede524f95de04b2a97a0b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameMode: 0
+  numberPlayer: 8
+  timeGame: 0
+  playerColor:
+  - {r: 0.42647058, g: 0.525355, b: 1, a: 1}
+  - {r: 1, g: 0.42647058, b: 0.42647058, a: 1}
+  - {r: 0.9256786, g: 0.9338235, b: 0.34331748, a: 1}
+  - {r: 0.49371195, g: 1, b: 0.42647058, a: 1}
+  - {r: 0.82596326, g: 0.42647058, b: 1, a: 1}
+  - {r: 1, g: 0.7705882, b: 0.42647058, a: 1}
+  - {r: 0.42647058, g: 0.92880327, b: 1, a: 1}
+  - {r: 0.85380626, g: 0.8485861, b: 0.8235294, a: 1}

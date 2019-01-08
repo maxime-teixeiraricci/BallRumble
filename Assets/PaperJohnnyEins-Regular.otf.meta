@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bf04bf4b1e6bb7d498d514dfe3f228d7
+timeCreated: 1529014823
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Paper Johnny Eins
+  fontNames:
+  - Paper Johnny Eins
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

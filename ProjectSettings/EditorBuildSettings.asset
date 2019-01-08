@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: cbb69fdc216ff144b9324428ebacca50
+  - enabled: 0
+    path: Assets/OtherMap.unity
+    guid: 8bccc579e22ab8b48a293f5e0687ba7a
+  - enabled: 0
+    path: Assets/BattleMap.unity
+    guid: 276949f09d318f74a9436e8e44f4351c
+  - enabled: 0
+    path: Assets/IceBlockMap.unity
+    guid: 84955cbd89a0d2c4fa06f0f09f37f2eb
+  - enabled: 1
+    path: Assets/SimpleMap.unity
+    guid: 69547bc8bf927f648bcb22bb133161cc
+  - enabled: 0
+    path: Assets/IsleMap.unity
+    guid: e8473a2177baedb4b9f2cd069fb7892e
+  - enabled: 0
+    path: Assets/OmegaMap.unity
+    guid: 276b0501745da9247a5ac94676c84e06
+  - enabled: 1
+    path: Assets/MazeMap.unity
+    guid: d0678023a052658498d9b1062d97e7c0
+  - enabled: 1
+    path: Assets/MazeMap2.unity
+    guid: 8af7221b0cf6b774e8f02c828273638f
+  - enabled: 1
+    path: Assets/MazeMap3.unity
+    guid: 7c9b0cb89622e51499ce31350daf7532
+  - enabled: 1
+    path: Assets/MazeMap4.unity
+    guid: 0a61dfae7fe40394b8668221a7444258
+  - enabled: 1
+    path: Assets/MazeMap5.unity
+    guid: d848acf2fcf5ab24f92167ecb1ed14b0
